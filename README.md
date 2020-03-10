@@ -28,8 +28,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
+GIF created with [Screen Recorder].
 ## Notes
 Sometimes while coding with the videos, it actually works on the videos and not on mine. But by making a hard, simple and good review I find where the mistakes was. 
 It also requires time to practice and to be familiar with some new concepts.
