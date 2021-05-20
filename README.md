@@ -4,7 +4,7 @@
 
 Submitted by: **Terogene Claudio**
 
-Time spent: **10** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 * [x] User can **view a list of todo items**
 * [x] User can **successfully add and remove items** from the todo list
-* [x] User's **list of items persisted** upon modification and and retrieved properly on app restart
+* [x] User's **list of items persisted** upon modification and retrieved properly on app restart
 
 The following **optional** features are implemented:
 
@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] The App is well styled and have fun and good colors.
 
 ## Video Walkthrough
 
@@ -35,7 +35,7 @@ It also requires time to practice and to be familiar with some new concepts.
 
 ## License
 
-    Copyright [2020] [Terogene Claudio]
+    Copyright [2021] [Terogene Claudio]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
